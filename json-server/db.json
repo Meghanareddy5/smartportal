@@ -1,0 +1,212 @@
+{
+  "Users": [
+    {
+      "id": 123,
+      "name": "Maggie",
+      "category": "Internal"     
+    },
+    {
+      "id": 453,
+      "name": "Rosie",
+      "category": "External"   
+    },
+    {
+      "id": 789,
+      "name": "John",
+      "category": "External" 
+    },
+     {
+      "id": 890,
+      "name": "Camerin",
+      "category": "Internal" 
+    }
+  ],
+  "Shows": [
+    {
+      "id": 1,
+      "prodId": 9089,
+      "prodname": "Big Bang Theory",
+      "Episode":"101",
+      "assigned": "Maggie",
+      "status": "2",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "prodId": 9090,
+      "prodname": "Big Bang Theory",
+      "Episode":"102",
+      "assigned": "John",
+      "status": "2",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "prodId": 9091,
+      "prodname": "Big Bang Theory",
+      "Episode":"103",
+      "assigned": "Maggie",
+      "status": "3",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "prodId": 9092,
+      "prodname": "Big Bang Theory",
+      "Episode":"104",
+      "assigned": "John",
+      "status": "3",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "prodId": 9096,
+      "prodname": "Big Bang Theory",
+      "Episode":"105",
+      "assigned": "Rosie",
+      "status": "3",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "prodId": 9097,
+      "prodname": "Big Bang Theory",
+      "Episode":"106",
+      "assigned": "Rosie",
+      "status": "2",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "prodId": 9098,
+      "prodname": "Big Bang Theory",
+      "Episode":"107",
+      "assigned": "Maggie",
+      "status": "2",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "prodId": 9099,
+      "prodname": "Big Bang Theory",
+      "Episode":"108",
+      "assigned": "Maggie",
+      "status": "2",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "prodId": 9089,
+      "prodname": "Big Bang Theory",
+      "assigned": "Maggie",
+      "status": "2",
+      "date": "2012-10-16T17:57:28.556094Z"
+    }   
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.png",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Peter Pan",
+      "image": "images/alberto.png",
+      "designation": "Chief Epicurious Officer",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+    },
+    {
+      "id": 1,
+      "name": "Dhanasekaran Witherspoon",
+      "image": "images/alberto.png",
+      "designation": "Chief Food Officer",
+      "abbr": "CFO",
+      "featured": false,
+      "description": "Our CFO, Danny, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+    },
+    {
+      "id": 2,
+      "name": "Agumbe Tang",
+      "image": "images/alberto.png",
+      "designation": "Chief Taste Officer",
+      "abbr": "CTO",
+      "featured": false,
+      "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
+    },
+    {
+      "id": 3,
+      "name": "Alberto Somayya",
+      "image": "images/alberto.png",
+      "designation": "Executive Chef",
+      "abbr": "EC",
+      "featured": true,
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    },
+    {
+      "firstname": "345345",
+      "lastname": "345345",
+      "telnum": "234234",
+      "email": "wer@g.bom",
+      "message": "wer",
+      "id": 2
+    },
+    {
+      "firstname": "yyyy",
+      "lastname": "rtyrt",
+      "telnum": "345345",
+      "email": "meghanareddy5@gmail.com",
+      "message": "rtyrty",
+      "id": 3
+    },
+    {
+      "firstname": "llllll",
+      "lastname": "77777",
+      "telnum": "3234",
+      "email": "sdf@GG.COM",
+      "message": "88888",
+      "id": 4
+    },
+    {
+      "firstname": "Maggie",
+      "lastname": "Reddy",
+      "telnum": "890",
+      "email": "meghanareddy5@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "",
+      "id": 5
+    },
+    {
+      "firstname": "kljllkjkjkj",
+      "lastname": "wieurowieur",
+      "telnum": "909098",
+      "email": "wer@g.bom",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "",
+      "id": 6
+    }
+  ]
+}
