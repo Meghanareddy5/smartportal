@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Meghanareddy5/smartportal/precache-manifest.fb51310403473019d025ecc3b1100268.js"
+  "/smartportal/precache-manifest.cdbee1a44cb4ce5e1d5dcb62e16a4175.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Meghanareddy5/smartportal/index.html", {
+workbox.routing.registerNavigationRoute("/smartportal/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
