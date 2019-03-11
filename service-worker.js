@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/smartportal/precache-manifest.4f13be28ae0eee8e45c9f04dd8994bdf.js"
+  "/smartportal/precache-manifest.11f3aec9acf2d63563e01aef6e971d82.js"
 );
 
 workbox.clientsClaim();

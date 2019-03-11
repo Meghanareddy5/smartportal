@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/smartportal/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "1d84f1f50b9274e768f7",
+    "revision": "4797cfb417ddc8c938d3",
     "url": "/smartportal/static/css/main.b9dd1f86.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/smartportal/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "1d84f1f50b9274e768f7",
-    "url": "/smartportal/static/js/main.287bbde4.chunk.js"
+    "revision": "4797cfb417ddc8c938d3",
+    "url": "/smartportal/static/js/main.885f51c1.chunk.js"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/smartportal/static/css/2.a0d4e87f.chunk.css"
   },
   {
-    "revision": "8e4501dc73a512fb9c8fc8ec172503d9",
+    "revision": "cb889624d3503e173cf76da157780186",
     "url": "/smartportal/index.html"
   }
 ];
