@@ -1,5 +1,5 @@
 {
-  "Users": [
+  "users": [
     {
       "id": 123,
       "name": "Maggie",
@@ -21,7 +21,7 @@
       "category": "Internal" 
     }
   ],
-  "Shows": [
+  "shows": [
     {
       "id": 1,
       "prodId": 9089,
